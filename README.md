@@ -37,8 +37,6 @@ This repository is a central hub containing links to my projects from different 
     - `3ds Max` `AutoCAD`
     - `Microsoft Office` (`Word` `PowerPoint` `Excel` `Access`)
 
-Private college projects archive (`C++` / `C#`): https://github.com/kramkvol/projects_before_university
-
 ## Table of Contents
 Main content:
 - [Java Experimental projects Table](#experimental-java)
@@ -52,8 +50,8 @@ Other content:
 - [CTU Other projects Table](#ctu-projects-other)
 
 ## Main Contents
-
-[Repository with educational projects](https://github.com/kramkvol/java_roadmap)
+- **Public** Repository with educational projects in `Java`: https://github.com/kramkvol/java_roadmap
+- **Private** college projects archive (`C++` / `C#`): https://github.com/kramkvol/projects_before_university
 
 <a id="experimental-java"></a>
 ### Java Experimental
