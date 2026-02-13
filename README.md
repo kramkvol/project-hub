@@ -84,7 +84,7 @@ Repository with educational projects:
 # College (2017–2021)
 ## Skills
 ***Programming skills***
-- `SQL` `C#` MS SQL Server` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
+- `SQL` `C#` `MS SQL Server` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
 
 ***Other***
 - `Adobe Photoshop`, `Adobe Illustrator`, `Adobe Animate`
