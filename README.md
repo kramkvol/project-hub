@@ -2,19 +2,24 @@
 
 This repository is a central hub containing links to my projects from different stages of my education and personal development.
 
-- **Pet projects (2023–present):** 
-    - Programming languages and tools: `Java` `C++` `C#` 
+- **Pet projects (2023–present):**
+        - `C++`
+        - `C#`: `Software Design Patterns`
   
 - **CTU Courses (2023–present):** 
-    - Database: `SQL` `MySql` `PostgreSQL` 
-    - Programming languages: `Java` `C++` `Kotlin` 
-    - Web: `HTML5` `CSS3` `JavaScript (ES6)` `PHP` `FileZilla`
-    - Others: `Python (Pandas)` `Camunda + Java Workers`
-  
+    - Database: `SQL` `MySql` `PostgreSQL`
+    - Programming languages, tools and technologies:
+        - `C++` `Kotlin`
+        - `Java`: `Software Design Patterns` `JavaFX` `Spring Boot`
+            - Testing: `JUnit` `Mockito`
+            - Database: `Jakarta Persistence (JPA)` `Hibernate` `PostgreSQL` `DAO layer` `CRUD`
+  - Web: `HTML5` `CSS3` `JavaScript (ES6)` `PHP` `FileZilla`
+  - Others: `Python (Pandas)` `Camunda + Ngrok + Java Workers` `Bubble` `Microsoft PowerApps`
+
 - **College projects (2018–2019):** 
     - Database: `SQL` `MS SQL Server` 
     - Programming languages and tools: 
-        - `C#` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
+        - `C#`: `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
         - `C++`
 
 ## Table of Contents
@@ -45,12 +50,12 @@ Repository with educational projects:
 
 <a id="ctu-projects-java"></a>
 ## Java CTU projects 
-| Course                                                 | What I practiced in the course                                                      | Comment                              | Repository status | Repository Link                                                          |
-|--------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------|-------------------|--------------------------------------------------------------------------|
-| `B0B36PJV` `BI-PJV`<br/> `B6B36TS1 (Software Testing)` | `JavaFX` `Multithreading` <br/> `Spring Boot` `JUnit` `Mockito`                     | Game "Sudoku"                        | `public`          | https://github.com/kramkvol/PJV<br/>https://github.com/kramkvol/B6B36TS1 |
-| `B6B36OMO Object-oriented design and Modeling`         | `Stream API` <br/>`Software Design Patterns`                                        | Team project "Smart home"            | `public`          | https://github.com/kramkvol/B6B36OMO                                     |
-| `B0B36DBS Database Systems`                            | `Jakarta Persistence (JPA)` `Hibernate` `PostgreSQL` `DAO layer` `CRUD`             | -                                    | -                 | -                                                                        |
-| `B0B36TPA Creation of business applications`           | `Java` `MySQL` `Ngrok` <br/>`Bubble` `Microsoft PowerApps` <br/>`Camunda` `Camunda` | LightGrow Translation Agency Process | `private`         | https://github.com/kramkvol/B0B36TPA                                     |
+| Course                                                 | What I practiced in the course                                          | Comment                              | Repository status | Repository Link                                                          |
+|--------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------|-------------------|--------------------------------------------------------------------------|
+| `B0B36PJV` `BI-PJV`<br/> `B6B36TS1 (Software Testing)` | `JavaFX` `Multithreading` <br/> `Spring Boot` `JUnit` `Mockito`         | Game "Sudoku"                        | `public`          | https://github.com/kramkvol/PJV<br/>https://github.com/kramkvol/B6B36TS1 |
+| `B6B36OMO Object-oriented design and Modeling`         | `Stream API` <br/>`Software Design Patterns`                            | Team project "Smart home"            | `public`          | https://github.com/kramkvol/B6B36OMO                                     |
+| `B0B36DBS Database Systems`                            | `Jakarta Persistence (JPA)` `Hibernate` `PostgreSQL` `DAO layer` `CRUD` | -                                    | -                 | -                                                                        |
+| `B0B36TPA Creation of business applications`           | `Java` `Camunda` `Bubble` `Microsoft PowerApps` `MySQL` `Ngrok`                        | LightGrow Translation Agency Process | `private`         | https://github.com/kramkvol/B0B36TPA                                     |
 
 <a id="cpp"></a>
 # C++
