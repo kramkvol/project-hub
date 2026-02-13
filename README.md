@@ -49,7 +49,7 @@ Repository with educational projects:
 <a id="csh"></a>
 # C#
 
-<a id="#experimental-cmp-csh"></a>
+<a id="experimental-cmp-csh"></a>
 ## Experimental (completed)
 | Description                                                                                                                                                                         | What I am practicing                       | Status      | Repository Visible | Repository Link                         |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|--------------------|-----------------------------------------|
