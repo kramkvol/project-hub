@@ -13,7 +13,7 @@ This repository is a central hub containing links to my projects from different 
 - [C++](#cpp)
    - [CTU projects](#ctu-projects-cpp)
 - [C#](#csh)
-  - [Experimental (completed)](#experimental-csh)
+  - [Experimental (completed)](#experimental-cmp-csh)
 - [CTU Courses](#ctu-courses)
 - [College](#college)
 
@@ -49,7 +49,7 @@ Repository with educational projects:
 # C#
 <a id="csh"></a>
 
-<a id="#experimental-csh"></a>
+<a id="#experimental-cmp-csh"></a>
 ## Experimental (completed)
 | Description                                                                                                                                                                         | What I am practicing                       | Status      | Repository Visible | Repository Link                         |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|--------------------|-----------------------------------------|
