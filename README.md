@@ -56,9 +56,9 @@ Repository with educational projects:
 
 <a id="experimental-java"></a>
 ## Java Experimental
-| Description                                                                                                                                      | What I am practicing              | Status          | Repository Visible | Repository Link                         |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----------------|--------------------|-----------------------------------------|
-| This project demonstrates a Coffee Order System using various design patterns <br/> `Factory Method` `Strategy` `Observer` `Singleton` `Builder` | `Java` `Software Design Patterns` | `not completed` | `private`          | https://github.com/kramkvol/patterns_p2 |
+| Project             | Focus                                                    | Status      | Link                                            |
+|---------------------|----------------------------------------------------------|-------------|-------------------------------------------------|
+| Coffee Order System | `Design Patterns` (Factory, Strategy, Observer, Builder) | In progress | [Repo](https://github.com/kramkvol/patterns_p2) |
 
 <a id="ctu-projects-java"></a>
 ## Java CTU projects 
@@ -74,18 +74,17 @@ Repository with educational projects:
 
 <a id="ctu-projects-cpp"></a>
 ## C++ CTU projects
-| Course                          | What I practiced in the course                 | Comment                  | Repository status | Repository Link                      |
-|---------------------------------|------------------------------------------------|--------------------------|-------------------|--------------------------------------|
-| `B6B36PCC Programming in C/C++` | `C++` `CLI` `Multithreading` `Work with files` | Winston cipher algorithm | `public`          | https://github.com/kramkvol/B6B36PCC |
+| Course   | Project                  | Topics                         | Status | Link                                         |
+|----------|--------------------------|--------------------------------|--------|----------------------------------------------|
+| B6B36PCC | Winston Cipher Algorithm | `CLI` `Multithreading` `Files` | Public | [Repo](https://github.com/kramkvol/B6B36PCC) |
 
 <a id="csh"></a>
 # C#
-
 <a id="experimental-cmp-csh"></a>
-## C# Experimental (completed)
-| Description                                                                                                                                                                         | What I am practicing                       | Status      | Repository Visible | Repository Link                         |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|--------------------|-----------------------------------------|
-| Project demonstrates the use of classical encryption algorithms implemented using various design patterns (`Strategy`, `Factory Method`, `Decorator`, `Singleton`, `Command`) in C# | `C#` `WinForms` `Software Design Patterns` | `completed` | `public`           | https://github.com/kramkvol/patterns_p1 |
+## C# Experimental Projects
+| Project                          | Focus                                              | Status    | Link                                            |
+|----------------------------------|----------------------------------------------------|-----------|-------------------------------------------------|
+| Encryption Algorithms (WinForms) | `Design Patterns` `Strategy` `Decorator` `Command` | Completed | [Repo](https://github.com/kramkvol/patterns_p1) |
 
 <a id="ctu-courses"></a>
 # CTU Courses (2023–present)
@@ -110,17 +109,7 @@ Repository with educational projects:
 
 <a id="college"></a>
 # College (2017–2021)
-## Summary 
-***Programming skills***
-- `SQL` `C#` `MS SQL Server` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
-
-***Other***
-- `Adobe Photoshop`, `Adobe Illustrator`, `Adobe Animate`
-- `Figma`
-- `3dMax`, `AutoCAD`
-- `Microsoft Office: Word, Power Point, Excel, Access`
-
-## Courses
+## Programming Courses
 ### 2018–2019
 - C++ fundamentals + OOP (2 semesters)
 - C++ programming practice (2 semesters, 8 hours per week)
