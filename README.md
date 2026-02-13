@@ -2,32 +2,37 @@
 
 This repository is a central hub containing links to my projects from different stages of my education and personal development.
 
-## Summary of Demonstrated Skills and Tools
-- **Pet projects (2023–present):**
-    - `C#`: `Software Design Patterns`, `.NET` `Visual Studio` `WinForms`
-
-- **CTU Courses (2023–present):**
-    - **Databases:** `SQL` `MySQL` `PostgreSQL`
+## Summary of Demonstrated Skills
+- **Skills Developed at CTU (2023–present):**
+    - **Query Languages / Databases**: `SQL` `MySQL` `PostgreSQL`
     - **Programming Languages:** `Java` `C++` `Kotlin`
-        - **Java**
-            - **Core Concepts:** `OOP` `Software Design Patterns`
-            - **Frameworks & Libraries:** `Spring Boot` `JavaFX`
-            - **Testing:** `JUnit` `Mockito`
-            - **Persistence & ORM:** `JPA (Jakarta Persistence)` `Hibernate`
-            - **Architecture & Practices:** `DAO Layer` `CRUD` `Layered Architecture`
-    - **Web Development:** `HTML5` `CSS3` `JavaScript (ES6)` `PHP`
-    - **Other Technologies & Tools:**
-        - `Python (Pandas)`
-        - `Camunda BPM` `Java Workers`
-        - `Bubble` `Microsoft PowerApps`
-        - `Ngrok`
-        - `FileZilla`
 
-- **College projects (2018–2019):**
-    - Database: `SQL` `MS SQL Server`
-    - Programming languages and tools:
-        - `C#` : `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
-        - `C++`
+    - **Java Ecosystem:**
+        - **Core Concepts:** `OOP` `Software Design Patterns`
+        - **Frameworks & Libraries:** `Spring Boot` `JavaFX`
+        - **Testing:** `JUnit` `Mockito`
+        - **Persistence & ORM:** `JPA (Jakarta Persistence)` `Hibernate`
+        - **Architecture & Practices:** `DAO Layer` `CRUD` `Layered Architecture`
+
+    - **Web Development:** `HTML5` `CSS3` `JavaScript (ES6)` `PHP`
+    - **Other Technologies:** `Python (Pandas)` `Camunda BPMN` `Bubble` `PowerApps`
+
+- **Additional Skills (College & Personal Projects, 2019–2021):**
+    - **C#**
+        - **Technologies:** `.NET` `WinForms`
+        - **Core Concepts:** `OOP` `Design Patterns`
+
+- **Development Tools & Environment**
+    - **Version Control:** `Git` `GitHub` `GitLab`
+    - **IDEs:** `IntelliJ IDEA` `CLion` `Visual Studio`
+    - **Build Tools:** `Maven` `Gradle` `CMake`
+    - **Deployment Tools:** `Ngrok` `FileZilla`
+
+- **Other Tools (College Background)**
+    - `Adobe Photoshop` `Illustrator` `Animate` `CorelDRAW`
+    - `Figma`
+    - `3ds Max` `AutoCAD`
+    - `Microsoft Office` (`Word` `PowerPoint` `Excel` `Access`)
 
 ## Table of Contents
 - [Java](#java)
@@ -36,7 +41,7 @@ This repository is a central hub containing links to my projects from different 
 - [C++](#cpp)
    - [CTU projects projects Table](#ctu-projects-cpp)
 - [C#](#csh)
-  - [Experimental (completed)](#experimental-cmp-csh)
+  - [Experimental projects Table](#experimental-cmp-csh)
 - [CTU Courses](#ctu-courses)
   - [Java projects Table](#ctu-projects-java)
   - [C++ projects Table](#ctu-projects-cpp)
@@ -62,7 +67,7 @@ Repository with educational projects:
 | `B0B36PJV` `BI-PJV`<br/> `B6B36TS1 (Software Testing)` | `JavaFX` `Multithreading` <br/> `Spring Boot` `JUnit` `Mockito`         | Game "Sudoku"                        | `public`          | https://github.com/kramkvol/PJV<br/>https://github.com/kramkvol/B6B36TS1 |
 | `B6B36OMO Object-oriented design and Modeling`         | `Stream API` <br/>`Software Design Patterns`                            | Team project "Smart home"            | `public`          | https://github.com/kramkvol/B6B36OMO                                     |
 | `B0B36DBS Database Systems`                            | `Jakarta Persistence (JPA)` `Hibernate` `PostgreSQL` `DAO layer` `CRUD` | -                                    | -                 | -                                                                        |
-| `B0B36TPA Creation of business applications`           | `Java` `Camunda` `Bubble` `Microsoft PowerApps` `MySQL` `Ngrok`                        | LightGrow Translation Agency Process | `private`         | https://github.com/kramkvol/B0B36TPA                                     |
+| `B0B36TPA Creation of business applications`           | `Java` `Camunda` `Bubble` `Microsoft PowerApps` `MySQL` `Ngrok`         | LightGrow Translation Agency Process | `private`         | https://github.com/kramkvol/B0B36TPA                                     |
 
 <a id="cpp"></a>
 # C++
@@ -105,7 +110,7 @@ Repository with educational projects:
 
 <a id="college"></a>
 # College (2017–2021)
-## Skills
+## Summary 
 ***Programming skills***
 - `SQL` `C#` `MS SQL Server` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
 
