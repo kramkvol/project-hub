@@ -2,24 +2,25 @@
 
 This repository is a central hub containing links to my projects from different stages of my education and personal development.
 
+## Summary of Demonstrated Skills and Tools
 - **Pet projects (2023–present):**
-        - `C++`
-        - `C#`: `Software Design Patterns`
-  
-- **CTU Courses (2023–present):** 
+    - `C++`
+    - `C#`: `Software Design Patterns`, `.NET` `Visual Studio` `WinForms`
+
+- **CTU Courses (2023–present):**
     - Database: `SQL` `MySql` `PostgreSQL`
     - Programming languages, tools and technologies:
         - `C++` `Kotlin`
         - `Java`: `Software Design Patterns` `JavaFX` `Spring Boot`
             - Testing: `JUnit` `Mockito`
             - Database: `Jakarta Persistence (JPA)` `Hibernate` `PostgreSQL` `DAO layer` `CRUD`
-  - Web: `HTML5` `CSS3` `JavaScript (ES6)` `PHP` `FileZilla`
-  - Others: `Python (Pandas)` `Camunda + Ngrok + Java Workers` `Bubble` `Microsoft PowerApps`
+    - Web: `HTML5` `CSS3` `JavaScript (ES6)` `PHP`
+    - Others: `Python (Pandas)` `Camunda + Ngrok + Java Workers` `Bubble` `Microsoft PowerApps` `FileZilla`
 
-- **College projects (2018–2019):** 
-    - Database: `SQL` `MS SQL Server` 
-    - Programming languages and tools: 
-        - `C#`: `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
+- **College projects (2018–2019):**
+    - Database: `SQL` `MS SQL Server`
+    - Programming languages and tools:
+        - `C#` : `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
         - `C++`
 
 ## Table of Contents
