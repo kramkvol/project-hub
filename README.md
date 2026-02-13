@@ -4,7 +4,7 @@ This repository is a central hub containing links to my projects from different 
 
 - **Pet projects (2023–present):** `Java` `C++` `C#` 
 - **CTU Courses (2023–present)**
-- **College projects (2018–2019):** `SQL` `C#` MS SQL Server` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
+- **College projects (2018–2019):** `SQL` `C#` `MS SQL Server` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
 
 ## Table of Contents
 - [Java](#java-)
