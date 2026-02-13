@@ -4,30 +4,31 @@ This repository is a central hub containing links to my projects from different 
 
 - **Pet projects (2023–present):** `Java` `C++` `C#` 
 - **CTU Courses (2023–present)**
-- **College projects (2018–2019):** `C#` `MS SQL Server` `WinForms` `Report Builder` `.NET` `Visual Studio`
+- **College projects (2018–2019):** `SQL` `C#` MS SQL Server` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
 
 ## Table of Contents
-
-- [Pet Projects](#pet-projects)
-    - [Java](#java-)
-    - [C++](#c)
-    - [C#](#c-1)
+- [Java](#java-)
+    - [Experimental](#experimental-java)
+    - [CTU projects](#ctu-projects-java)
+- [C++](#c)
+   - [CTU projects](#ctu-projects-cpp)
+- [C#](#c-1)
+  - [Experimental (completed)](#experimental-csh)
 - [CTU Courses](#ctu-courses)
 - [College](#college)
 
-<a id="pet-projects"></a>
-# Pet Projects
-## Java
+# Java
 Repository with educational projects:
 - https://github.com/kramkvol/java_roadmap
 
-### Experimental
+<a id="experimental-java"></a>
+## Experimental
 | Description                                                                                                                                      | What I am practicing              | Status          | Repository Visible | Repository Link                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----------------|--------------------|-----------------------------------------|
 | This project demonstrates a Coffee Order System using various design patterns <br/> `Factory Method` `Strategy` `Observer` `Singleton` `Builder` | `Java` `Software Design Patterns` | `not completed` | `private`          | https://github.com/kramkvol/patterns_p2 |
 
-
-### CTU projects (Java)
+<a id="ctu-projects-java"></a>
+## CTU projects
 | Course                                                 | What I practiced in the course                                                                       | Comment                              | Repository status | Repository Link                                                          |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------|-------------------|--------------------------------------------------------------------------|
 | `B0B36PJV` `BI-PJV`<br/> `B6B36TS1 (Software Testing)` | `JavaFX` `Multithreading` <br/> `Spring Boot` `JUnit` `Mockito`                                      | Game "Sudoku"                        | `public`          | https://github.com/kramkvol/PJV<br/>https://github.com/kramkvol/B6B36TS1 |
@@ -35,18 +36,19 @@ Repository with educational projects:
 | `B0B36DBS Database Systems`                            | `Jakarta Persistence (JPA)` `Hibernate` `PostgreSQL` `DAO layer` `CRUD`                              | -                                    | -                 | -                                                                        |
 | `B0B36TPA Creation of business applications`           | `Java` `MySQL` `Ngrok` <br/>`Bubble` `Microsoft PowerApps` <br/>`Camunda Modeler` `Camunda Optimize` | LightGrow Translation Agency Process | `private`         | https://github.com/kramkvol/B0B36TPA                                     |
 
-## C++
-### CTU projects (C++)
+# C++
+<a id="ctu-projects-cpp"></a>
+## CTU projects
 | Course                          | What I practiced in the course                 | Comment                  | Repository status | Repository Link                      |
 |---------------------------------|------------------------------------------------|--------------------------|-------------------|--------------------------------------|
 | `B6B36PCC Programming in C/C++` | `C++` `CLI` `Multithreading` `Work with files` | Winston cipher algorithm | `public`          | https://github.com/kramkvol/B6B36PCC |
 
-## C#
-### Experimental (completed)
+# C#
+<a id="#experimental-csh"></a>
+## Experimental (completed)
 | Description                                                                                                                                                                         | What I am practicing                       | Status      | Repository Visible | Repository Link                         |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|--------------------|-----------------------------------------|
 | Project demonstrates the use of classical encryption algorithms implemented using various design patterns (`Strategy`, `Factory Method`, `Decorator`, `Singleton`, `Command`) in C# | `C#` `WinForms` `Software Design Patterns` | `completed` | `public`           | https://github.com/kramkvol/patterns_p1 |
-
 
 <a id="ctu-courses"></a>
 # CTU Courses (2023–present)
@@ -71,7 +73,7 @@ Repository with educational projects:
 # College (2017–2021)
 ## Skills
 ***Programming skills***
-- `C++`,  `C#`, `.NET`, `Visual Studio`, `WinForms`, `Microsoft Report Builder`, `MS SQL Server`
+- `SQL` `C#` MS SQL Server` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
 
 ***Other***
 - `Adobe Photoshop`, `Adobe Illustrator`, `Adobe Animate`
