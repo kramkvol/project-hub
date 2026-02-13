@@ -4,7 +4,7 @@ This repository is a central hub containing links to my projects from different 
 
 - **Pet projects (2023–present):** `Java` `C++` `C#` 
 - **CTU Courses (2023–present)** `Java` `C++` `Web (HTML5, CSS3, JavaScript (ES6), PHP )` and others projects
-- **College projects (2018–2019):** `SQL` `C#` `MS SQL Server` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
+- **College projects (2018–2019):** `SQL` `MS SQL Server` `C#` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
 
 ## Table of Contents
 - [Java](#java)
@@ -113,7 +113,7 @@ Repository with educational projects:
 - ability to process payments and print receipts;
 - reports.
 ### Technologies
-.NET, Visual Studio, C#, WinForms, Report Builder, MS SQL Server
+- `SQL` `MS SQL Server` `C#` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
 
 ## Repository
 - Some of my C++ projects
