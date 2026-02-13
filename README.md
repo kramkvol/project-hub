@@ -7,16 +7,17 @@ This repository is a central hub containing links to my projects from different 
 - **College projects (2018–2019):** `SQL` `C#` `MS SQL Server` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
 
 ## Table of Contents
-- [Java](#java-)
+- [Java](#java)
     - [Experimental](#experimental-java)
     - [CTU projects](#ctu-projects-java)
-- [C++](#c)
+- [C++](#cpp)
    - [CTU projects](#ctu-projects-cpp)
-- [C#](#c-1)
+- [C#](#csh)
   - [Experimental (completed)](#experimental-csh)
 - [CTU Courses](#ctu-courses)
 - [College](#college)
 
+<a id="java"></a>
 # Java
 Repository with educational projects:
 - https://github.com/kramkvol/java_roadmap
@@ -36,7 +37,9 @@ Repository with educational projects:
 | `B0B36DBS Database Systems`                            | `Jakarta Persistence (JPA)` `Hibernate` `PostgreSQL` `DAO layer` `CRUD`                              | -                                    | -                 | -                                                                        |
 | `B0B36TPA Creation of business applications`           | `Java` `MySQL` `Ngrok` <br/>`Bubble` `Microsoft PowerApps` <br/>`Camunda Modeler` `Camunda Optimize` | LightGrow Translation Agency Process | `private`         | https://github.com/kramkvol/B0B36TPA                                     |
 
+<a id="cpp"></a>
 # C++
+
 <a id="ctu-projects-cpp"></a>
 ## CTU projects
 | Course                          | What I practiced in the course                 | Comment                  | Repository status | Repository Link                      |
@@ -44,6 +47,8 @@ Repository with educational projects:
 | `B6B36PCC Programming in C/C++` | `C++` `CLI` `Multithreading` `Work with files` | Winston cipher algorithm | `public`          | https://github.com/kramkvol/B6B36PCC |
 
 # C#
+<a id="csh"></a>
+
 <a id="#experimental-csh"></a>
 ## Experimental (completed)
 | Description                                                                                                                                                                         | What I am practicing                       | Status      | Repository Visible | Repository Link                         |
@@ -53,7 +58,7 @@ Repository with educational projects:
 <a id="ctu-courses"></a>
 # CTU Courses (2023–present)
 - [Java CTU projects Table](#ctu-projects-java)
-- [C++ CTU projects Table](#ctu-projects-c)
+- [C++ CTU projects Table](#ctu-projects-cpp)
 
 ## Web
 | Subject                                      | What I practiced in the course                                                                              | Repository status | Repository Link                      |
