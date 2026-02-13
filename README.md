@@ -3,7 +3,7 @@
 This repository is a central hub containing links to my projects from different stages of my education and personal development.
 
 - **Pet projects (2023–present):** `Java` `C++` `C#` 
-- **CTU Courses (2023–present)**
+- **CTU Courses (2023–present)** `Java` `C++` `Web (HTML5, CSS3, JavaScript (ES6), PHP )` and others projects
 - **College projects (2018–2019):** `SQL` `C#` `MS SQL Server` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
 
 ## Table of Contents
@@ -27,13 +27,13 @@ Repository with educational projects:
 - https://github.com/kramkvol/java_roadmap
 
 <a id="experimental-java"></a>
-## Experimental
+## Java Experimental
 | Description                                                                                                                                      | What I am practicing              | Status          | Repository Visible | Repository Link                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----------------|--------------------|-----------------------------------------|
 | This project demonstrates a Coffee Order System using various design patterns <br/> `Factory Method` `Strategy` `Observer` `Singleton` `Builder` | `Java` `Software Design Patterns` | `not completed` | `private`          | https://github.com/kramkvol/patterns_p2 |
 
 <a id="ctu-projects-java"></a>
-## CTU projects
+## Java CTU projects 
 | Course                                                 | What I practiced in the course                                                                       | Comment                              | Repository status | Repository Link                                                          |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------|-------------------|--------------------------------------------------------------------------|
 | `B0B36PJV` `BI-PJV`<br/> `B6B36TS1 (Software Testing)` | `JavaFX` `Multithreading` <br/> `Spring Boot` `JUnit` `Mockito`                                      | Game "Sudoku"                        | `public`          | https://github.com/kramkvol/PJV<br/>https://github.com/kramkvol/B6B36TS1 |
@@ -45,7 +45,7 @@ Repository with educational projects:
 # C++
 
 <a id="ctu-projects-cpp"></a>
-## CTU projects
+## C++ CTU projects
 | Course                          | What I practiced in the course                 | Comment                  | Repository status | Repository Link                      |
 |---------------------------------|------------------------------------------------|--------------------------|-------------------|--------------------------------------|
 | `B6B36PCC Programming in C/C++` | `C++` `CLI` `Multithreading` `Work with files` | Winston cipher algorithm | `public`          | https://github.com/kramkvol/B6B36PCC |
@@ -54,7 +54,7 @@ Repository with educational projects:
 # C#
 
 <a id="experimental-cmp-csh"></a>
-## Experimental (completed)
+## C# Experimental (completed)
 | Description                                                                                                                                                                         | What I am practicing                       | Status      | Repository Visible | Repository Link                         |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|--------------------|-----------------------------------------|
 | Project demonstrates the use of classical encryption algorithms implemented using various design patterns (`Strategy`, `Factory Method`, `Decorator`, `Singleton`, `Command`) in C# | `C#` `WinForms` `Software Design Patterns` | `completed` | `public`           | https://github.com/kramkvol/patterns_p1 |
@@ -65,14 +65,14 @@ Repository with educational projects:
 - [C++ CTU projects Table](#ctu-projects-cpp)
 
 <a id="ctu-projects-web"></a>
-## Web
-| Subject                                      | What I practiced in the course                                                                              | Repository status | Repository Link                      |
-|----------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------|--------------------------------------|
-| `B6B39ZWA Foundations of Web Application`    | `HTML`, `JavaScript`, `CSS`, `PHP`, `FileZilla`                                                             | `public`          | https://github.com/kramkvol/B6B39ZWA |
-| `B0B39KAJ Client applications in JavaScript` | `HTML5`, `CSS3`, `JavaScript (ES6)`, `Service Workers`, `localStorage`, `Drag & Drop API`, `FileReader API` | `private`         | https://github.com/kramkvol/B0B39KAJ |
+## CTU Web projects
+| Subject                                      | What I practiced in the course                                                                        | Repository status | Repository Link                      |
+|----------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------|--------------------------------------|
+| `B6B39ZWA Foundations of Web Application`    | `HTML5` `JavaScript` `CSS3` `PHP` `FileZilla`                                                         | `public`          | https://github.com/kramkvol/B6B39ZWA |
+| `B0B39KAJ Client applications in JavaScript` | `HTML5` `CSS3` `JavaScript (ES6)` `Service Workers` `localStorage` `Drag & Drop API` `FileReader API` | `private`         | https://github.com/kramkvol/B0B39KAJ |
 
 <a id="ctu-projects-other"></a>
-## Others
+## CTU Others projects
 | Subject                                                   | What I practiced in the course                                                            | Comment                                     | Repository status | Repository Link                      |
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------|-------------------|--------------------------------------|
 | `B0B36ZAL Introduction to Programming`                    | `Python`                                                                                  | All topics are in readme.md                 | `public`          | https://github.com/kramkvol/B0B36ZAL |
@@ -101,7 +101,7 @@ Repository with educational projects:
 - C# programming practice (2 semesters, 8 hours per week)
 - Software design (1 semester)
 - Databases using MS SQL Server (2 semesters)
-- As a result, four semester projects using C# WinForms and MS SQL Server
+- As a result, 4 semester projects using C# WinForms and MS SQL Server
 
 ## Diploma Project
 - **Topic:** Automated workstation for a beauty salon administrator
