@@ -4,18 +4,24 @@ This repository is a central hub containing links to my projects from different 
 
 ## Summary of Demonstrated Skills and Tools
 - **Pet projects (2023–present):**
-    - `C++`
     - `C#`: `Software Design Patterns`, `.NET` `Visual Studio` `WinForms`
 
 - **CTU Courses (2023–present):**
-    - Database: `SQL` `MySql` `PostgreSQL`
-    - Programming languages, tools and technologies:
-        - `C++` `Kotlin`
-        - `Java`: `Software Design Patterns` `JavaFX` `Spring Boot`
-            - Testing: `JUnit` `Mockito`
-            - Database: `Jakarta Persistence (JPA)` `Hibernate` `PostgreSQL` `DAO layer` `CRUD`
-    - Web: `HTML5` `CSS3` `JavaScript (ES6)` `PHP`
-    - Others: `Python (Pandas)` `Camunda + Ngrok + Java Workers` `Bubble` `Microsoft PowerApps` `FileZilla`
+    - **Databases:** `SQL` `MySQL` `PostgreSQL`
+    - **Programming Languages:** `Java` `C++` `Kotlin`
+        - **Java**
+            - **Core Concepts:** `OOP` `Software Design Patterns`
+            - **Frameworks & Libraries:** `Spring Boot` `JavaFX`
+            - **Testing:** `JUnit` `Mockito`
+            - **Persistence & ORM:** `JPA (Jakarta Persistence)` `Hibernate`
+            - **Architecture & Practices:** `DAO Layer` `CRUD` `Layered Architecture`
+    - **Web Development:** `HTML5` `CSS3` `JavaScript (ES6)` `PHP`
+    - **Other Technologies & Tools:**
+        - `Python (Pandas)`
+        - `Camunda BPM` `Java Workers`
+        - `Bubble` `Microsoft PowerApps`
+        - `Ngrok`
+        - `FileZilla`
 
 - **College projects (2018–2019):**
     - Database: `SQL` `MS SQL Server`
