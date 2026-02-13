@@ -120,22 +120,12 @@ Repository with educational projects:
 - Databases using MS SQL Server (2 semesters)
 - As a result, 4 semester projects using C# WinForms and MS SQL Server
 
-## Diploma Project
-- **Topic:** Automated workstation for a beauty salon administrator
-### Implemented
-- multi-user login (administrator, employees);
-- CRUD operations for services, masters, and clients;
-- login form;
-- operations with services, clients, and masters;
-- ability to process payments and print receipts;
-- reports.
-### Technologies
-- `SQL` `MS SQL Server` `C#` `.NET` `Visual Studio` `WinForms` `Microsoft Report Builder`
+## Repository Archive (College Projects)
+[projects_before_university](https://github.com/kramkvol/projects_before_university)
 
-## Repository
-- Some of my C++ projects
-- Some of my C# projects
-- Diploma project (C# source code)
-- Diploma project (application preview / screenshots)
-https://github.com/kramkvol/projects_before_university   
+| Content               | Technologies                                            | Description                                                      |
+|-----------------------|---------------------------------------------------------|------------------------------------------------------------------|
+| C++ Practice Projects | `C++`                                                   | Fundamentals and OOP exercises                                   |
+| C# Practice Projects  | `C#` `.NET` `WinForms`                                  | Fundamentals and OOP exercises                                   |
+| Diploma Project       | `C#` `.NET` `WinForms` `MS SQL Server` `Report Builder` | Beauty salon administrator workstation with reports and payments |
 
