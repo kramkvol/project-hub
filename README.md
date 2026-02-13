@@ -8,13 +8,17 @@ This repository is a central hub containing links to my projects from different 
 
 ## Table of Contents
 - [Java](#java)
-    - [Experimental](#experimental-java)
-    - [CTU projects](#ctu-projects-java)
+    - [Experimental projects Table](#experimental-java)
+    - [CTU projects projects Table](#ctu-projects-java)
 - [C++](#cpp)
-   - [CTU projects](#ctu-projects-cpp)
+   - [CTU projects projects Table](#ctu-projects-cpp)
 - [C#](#csh)
   - [Experimental (completed)](#experimental-cmp-csh)
 - [CTU Courses](#ctu-courses)
+  - [Java projects Table](#ctu-projects-java)
+  - [C++ projects Table](#ctu-projects-cpp)
+  - [Web projects Table](#ctu-projects-web)
+  - [Other projects Table](#ctu-projects-other)
 - [College](#college)
 
 <a id="java"></a>
@@ -60,12 +64,14 @@ Repository with educational projects:
 - [Java CTU projects Table](#ctu-projects-java)
 - [C++ CTU projects Table](#ctu-projects-cpp)
 
+<a id="ctu-projects-web"></a>
 ## Web
 | Subject                                      | What I practiced in the course                                                                              | Repository status | Repository Link                      |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------|--------------------------------------|
 | `B6B39ZWA Foundations of Web Application`    | `HTML`, `JavaScript`, `CSS`, `PHP`, `FileZilla`                                                             | `public`          | https://github.com/kramkvol/B6B39ZWA |
 | `B0B39KAJ Client applications in JavaScript` | `HTML5`, `CSS3`, `JavaScript (ES6)`, `Service Workers`, `localStorage`, `Drag & Drop API`, `FileReader API` | `private`         | https://github.com/kramkvol/B0B39KAJ |
 
+<a id="ctu-projects-other"></a>
 ## Others
 | Subject                                                   | What I practiced in the course                                                            | Comment                                     | Repository status | Repository Link                      |
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------|-------------------|--------------------------------------|
