@@ -3,33 +3,29 @@
 This repository is a central hub containing links to my projects from different stages of my education and personal development.
 
 ## Summary of Demonstrated Skills
-- **Skills Developed at CTU (2023–present):**
-    - **Query Languages / Databases**: `SQL` `MySQL` `PostgreSQL`
-    - **Programming Languages:** `Java` `C++` `Kotlin`
+- **Skills Developed through Academic & Personal Projects:**
+    - **Programming Languages:** `Java` `C++` `Kotlin` `Python`
+    - **Core Concepts:** `OOP` `Software Design Patterns`
+    - **Databases & SQL:** `PostgreSQL` `MySQL` `Microsoft SQL Server`
 
     - **Java Ecosystem:**
-        - **Core Concepts:** `OOP` `Software Design Patterns`
         - **Frameworks & Libraries:** `Spring Boot` `JavaFX`
         - **Testing:** `JUnit` `Mockito`
         - **Persistence & ORM:** `JPA (Jakarta Persistence)` `Hibernate`
-        - **Architecture & Practices:** `DAO Layer` `CRUD` `Layered Architecture`
+        - **Architecture & Practices:** `CRUD` `DAO Layer` `Layered Architecture`
 
+    - **Android Development:** `Android SDK` `Jetpack Compose` `ADB`
+    - **Python Ecosystem:** `Pandas` `Jupyter Notebook`
     - **Web Development:** `HTML5` `CSS3` `JavaScript (ES6)` `PHP`
-    - **Other Technologies:** `Python (Pandas)` `Camunda BPMN` `Bubble` `PowerApps`
+    - **C# / .NET:** `WinForms`
+    - **Low-code Tools:** `Microsoft PowerApps` `Bubble`
 
-
-- **Additional Skills (College & Personal Projects, 2019–2021):**
-    - **C#**
-        - **Technologies:** `.NET` `WinForms`
-        - **Core Concepts:** `OOP` `Design Patterns`
-
-
-- **Development Tools & Environment**
+- **Tools & Environment:**
     - **Version Control:** `Git` `GitHub` `GitLab`
-    - **IDEs:** `IntelliJ IDEA` `CLion` `Visual Studio` `Android Studio`
+    - **IDEs:** `IntelliJ IDEA` `CLion` `VS Code` `Visual Studio` `Android Studio`
     - **Build Tools:** `Maven` `Gradle` `CMake`
-    - **Android Ecosystem:** `Android SDK` `Jetpack Compose` `ADB` `Emulator`
-    - **Deployment Tools:** `Ngrok` `FileZilla`
+    - **Python Tooling:** `pip` `venv`
+    - **Database Tools:** `MySQL Workbench` `SQL Server Management Studio (SSMS)`
 
 - **Other Tools (College Background)**
     - `Adobe Photoshop` `Illustrator` `Animate` `CorelDRAW`
