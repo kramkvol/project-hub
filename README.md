@@ -26,10 +26,10 @@ This repository is a central hub containing links to my projects from different 
 
 - **Development Tools & Environment**
     - **Version Control:** `Git` `GitHub` `GitLab`
-    - **IDEs:** `IntelliJ IDEA` `CLion` `Visual Studio`
+    - **IDEs:** `IntelliJ IDEA` `CLion` `Visual Studio` `Android Studio`
     - **Build Tools:** `Maven` `Gradle` `CMake`
+    - **Android Ecosystem:** `Android SDK` `Jetpack Compose` `ADB` `Emulator`
     - **Deployment Tools:** `Ngrok` `FileZilla`
-
 
 - **Other Tools (College Background)**
     - `Adobe Photoshop` `Illustrator` `Animate` `CorelDRAW`
