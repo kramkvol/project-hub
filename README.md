@@ -27,11 +27,14 @@ This repository is a central hub containing links to my projects from different 
     - **Python Tooling:** `pip` `venv`
     - **Database Tools:** `MySQL Workbench` `SQL Server Management Studio (SSMS)`
 
-- **Other Tools (College Background)**
-    - `Adobe Photoshop` `Illustrator` `Animate` `CorelDRAW`
+- **Other Tools**
+    - `Adobe Photoshop` `Adobe Illustrator` `Adobe Animate` `Adobe Premiere Pro` `CorelDRAW`
     - `Figma`
     - `3ds Max` `AutoCAD`
     - `Microsoft Office` (`Word` `PowerPoint` `Excel` `Access`)
+    - `Camunda`
+    - `PowerBI`
+
 
 ## Table of Contents
 Main content:
